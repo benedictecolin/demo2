@@ -1,3 +1,4 @@
 alert ("Hello world!");
 alert ("Bonjour!");
-alert ("Changement de branche!");
+var="Changement de branche!"
+alert ("var");
